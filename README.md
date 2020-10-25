@@ -1,7 +1,7 @@
 ### Hi, I'm a person 😀. 
 #### I live in Canada. 
 #### I make terrible discord bots and I love to code. I know JavaScript and I'm learning Java (I also know HTML)
-![](https://komarev.com/ghpvc/?username=ShrimpyStuff)
+![](https://komarev.com/ghpvc/?username=ShrimpyStuff&color=00aae8)
 
 <!--
 **ShrimpyStuff/ShrimpyStuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
