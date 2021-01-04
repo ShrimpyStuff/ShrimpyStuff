@@ -1,6 +1,7 @@
 ### Hi, I'm a person 😀. 
 #### I live in Canada. 
-#### I make terrible discord bots and I love to code. I know JavaScript and I'm learning Java (I also know HTML)
+#### I know JavaScript, Java, and HTML
+I'm terrible at designing things though
 
 
 <!--
