@@ -1,6 +1,6 @@
 ### Hi, I'm a person 😀. 
 #### I live in Canada. 
-#### I know JavaScript, Java, and HTML
+#### I know JavaScript, Java, HTML/CSS, and a little C#
 I'm terrible at designing things though
 
 
